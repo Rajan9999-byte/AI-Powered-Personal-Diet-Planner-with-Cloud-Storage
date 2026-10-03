@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "Dietly Planner" },
+    { "path": "/login", "title": "Log in" },
+    { "path": "/register", "title": "Create account" },
+    { "path": "/dashboard", "title": "Dashboard" },
+    { "path": "/profile", "title": "Profile" },
+    { "path": "/plan", "title": "Meal plan" },
+    { "path": "/tracker", "title": "Daily tracker" }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+frontend/dist/
+frontend/.vite/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.sqlite3
+data/uploads/*
+.env
+.DS_Store

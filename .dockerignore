@@ -1,0 +1,10 @@
+node_modules
+.venv
+.git
+frontend/dist
+frontend/.vite
+__pycache__
+*.pyc
+*.sqlite3
+data/uploads/*
+.env
